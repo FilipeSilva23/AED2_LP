@@ -16,6 +16,6 @@ public class MainTestIntro {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("MainTestIntro->main(): tests for intro package! 1 23 4");
+        System.out.println("MainTestIntro->main(): tests for intro package! ");
     }
 }
