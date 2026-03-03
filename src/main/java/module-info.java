@@ -2,6 +2,7 @@ module edu.ufp.inf.aed2_lp2_2324_students {
     requires javafx.controls;
     requires javafx.fxml;
     requires javafx.web;
+    requires java.desktop;
     requires edu.princeton.cs.algs4;
 
     requires org.controlsfx.controls;
